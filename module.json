@@ -1,0 +1,21 @@
+{
+  "id": "beli-currency",
+  "title": "Beli Currency",
+  "description": "Converts CP into Beli and hides other currencies.",
+  "version": "1.0.0",
+  "authors": [
+    { "name": "Robert" }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      { "id": "dnd5e", "type": "system" }
+    ]
+  },
+  "esmodules": ["beli-currency.js"],
+  "manifest": "PASTE_RAW_GITHUB_MODULE_JSON_URL_HERE",
+  "download": "PASTE_ZIP_URL_HERE"
+}
